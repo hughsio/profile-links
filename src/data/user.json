@@ -1,48 +1,54 @@
 {
-	"name": "Kelly Bowlin",
-	"profession": "Web Designer",
+	"name": "Hugh S",
+	"profession": "GenAI Consultant",
 	"links": [
 		{
-			"url": "#",
+			"url": "http://linkedin.com/in/hughsio",
+			"icon": "linkedin-box-fill",
+			"title": "LinkedIn",
+			"description": "Connect with me on LinkedIn"
+		},
+		{
+			"url": "https://github.com/hughsio",
+			"icon": "github-fill",
+			"title": "GitHub Repos",
+			"description": "All my latest GitHub Projects"
+		},
+		{
+			"url": "https://roadmap.sh/u/hugh",
+			"icon": "code-box-fill",
+			"title": "All Roadmaps",
+			"description": "Follow up with my current Roadmaps"
+		},
+		{
+			"url": "http://twitter.com/hughsio",
+			"icon": "twitter-fill",
+			"title": "Latest Updates",
+			"description": "All my latest updates from Twitter"
+		},
+		{
+			"url": "https://github.com/hughsio/resume/blob/main/hugh-smith-resume.pdf",
+			"icon": "file-pdf-2-fill",
+			"title": "Resume",
+			"description": "View and download my resume"
+		},
+		{
+			"url": "https://buymeacoffee.com/hughio",
+			"icon": "drinks-fill",
+			"title": "Buy Me Coffee",
+			"description": "Support my work or buy me an Americano"
+		},
+		{
+			"url": "https://www.privacyguides.org/en/",
 			"icon": "link",
-			"title": "Personal Portfolio",
-			"description": "All my latest design projects"
+			"title": "Privicy Guides",
+			"description": "A collection of Privacy Recommnedations"
 		},
 		{
-			"url": "#",
-			"icon": "youtube-fill",
-			"title": "Youtube Channel",
-			"description": "All my latest design projects"
-		},
-		{
-			"url": "#",
-			"icon": "shopping-bag-line",
-			"title": "Template Store",
-			"description": "Discover templates that suit you"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Design Podcast",
-			"description": "Every Friday a new episode"
-		},
-		{
-			"url": "#",
-			"icon": "instagram-line",
-			"title": "Instagram Profile",
-			"description": "Designer lifestyle and more"
-		},
-		{
-			"url": "#",
-			"icon": "dribbble-line",
-			"title": "Dribbble Shots",
-			"description": "Know more about my work"
-		},
-		{
-			"url": "#",
-			"icon": "link",
-			"title": "Free Resources",
-			"description": "Collection of free resources"
+			"url": "mailto:hugh@hughjsmith.com",
+			"icon": "mail-fill",
+			"title": "Email",
+			"description": "Shoot me and email"
 		}
 	]
 }
