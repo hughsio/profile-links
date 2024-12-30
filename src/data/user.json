@@ -27,6 +27,12 @@
 			"description": "All my latest updates from Twitter"
 		},
 		{
+			"url": "https://bsky.app/profile/hughj.dev",
+			"icon": "bluesky-fill",
+			"title": "Latest from BlueSky",
+			"description": "All the latest from my BlueSky activities"
+		},
+		{
 			"url": "https://github.com/hughsio/resume/blob/main/hugh-smith-resume.pdf",
 			"icon": "file-pdf-2-fill",
 			"title": "Resume",
