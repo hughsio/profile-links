@@ -1,8 +1,6 @@
-# Astrolink: Template to share about yourself
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39ad4f9c-f144-41a4-a52a-fa445ee23260/deploy-status)](https://app.netlify.com/sites/hugh-profile-links/deploys)
 
-```sh
-git clone https://github.com/alamguardin/Astrolink.git
-```
+# Astrolink: Template to share about yourself
 
 
 ![Preview](/src/assets/screenshot-app.png)
