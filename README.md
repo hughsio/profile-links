@@ -1,13 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/39ad4f9c-f144-41a4-a52a-fa445ee23260/deploy-status)](https://app.netlify.com/sites/hugh-profile-links/deploys)
 
-# Astrolink: Template to share about yourself
+### Astrolink: Template by [Alam Guardin](https://github.com/alamguardin). I customised it to serve as my defacto landing page, please [view it here](https://go.hughj.dev) to see it in action.
 
-
-![Preview](/src/assets/screenshot-app.png)
-
-## 🚀 How to change the content?
-
-To change the content of the templates, simply locate the ```user.json``` file inside the data folder. You can change the name, profession, and the links you want.
 
 ```text
 /
