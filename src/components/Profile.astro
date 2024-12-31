@@ -12,6 +12,7 @@ import dataList from "../data/user.json";
     <div class="profile-data">
         <h1 class="profile-name">{dataList.name}</h1>
         <p class="profile-profession">{dataList.profession}</p>
+        <p class="sub-heading">{dataList.headline}</p>
     </div>
 </header>
 
@@ -27,7 +28,7 @@ import dataList from "../data/user.json";
     .profile-picture-content {
         padding: 0.5rem;
         border-radius: 100%;
-        border: 1px solid var(--zinc-800);
+        border: 3px solid var(--zinc-800);
     }
 
     .profile-picture {
@@ -56,6 +57,11 @@ import dataList from "../data/user.json";
 
     .profile-profession {
         font-size: 0.875rem;
+        color: var(--zinc-400);
+    }
+
+    .sub-heading {
+        font-size: 0.575rem;
         color: var(--zinc-400);
     }
 </style>

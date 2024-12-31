@@ -1,6 +1,7 @@
 {
 	"name": "Hugh S",
 	"profession": "GenAI Consultant",
+	"headline": "Innovating for the future",
 	"links": [
 		{
 			"url": "https://www.linkedin.com/in/hughio/",
@@ -48,7 +49,7 @@
 			"url": "https://www.privacyguides.org/en/",
 			"icon": "link",
 			"title": "Privicy Guides",
-			"description": "A collection of Privacy Recommnedations"
+			"description": "A collection of Privacy Recommendations"
 		},
 		{
 			"url": "mailto:hugh@hughjsmith.com",
