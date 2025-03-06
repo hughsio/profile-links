@@ -1,6 +1,6 @@
 {
 	"name": "Hugh S",
-	"profession": "Student",
+	"profession": "AI Consultant",
 	"headline": "Innovating for the future",
 	"links": [
 		{
@@ -8,6 +8,12 @@
 			"icon": "linkedin-box-fill",
 			"title": "LinkedIn",
 			"description": "Connect with me on LinkedIn"
+		},
+		{
+			"url": "https://cal.com/hughio",
+			"icon": "calendar-box-fill",
+			"title": "Calendar",
+			"description": "Grab some time with me"
 		},
 		{
 			"url": "https://github.com/hughsio",
