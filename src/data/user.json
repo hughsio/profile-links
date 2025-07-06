@@ -4,6 +4,12 @@
 	"headline": "Innovating for the future",
 	"links": [
 		{
+			"url": "hughj.dev",
+			"icon": "globe-fill",
+			"title": "Blog",
+			"description": "My thoughts on Tech, AI and projects"
+		},
+		{
 			"url": "https://www.linkedin.com/in/hughio/",
 			"icon": "linkedin-box-fill",
 			"title": "LinkedIn",
